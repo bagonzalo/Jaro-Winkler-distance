@@ -4,20 +4,20 @@ https://en.wikipedia.org/wiki/Jaro–Winkler_distance
 
 # Example:
 
-# a = "abcde"
-# b = "abdcde"
+<!--# a = "abcde"-->
+<!--# b = "abdcde"-->
 
-# a = "MARTHA"
-# b = "MARHTA"
+<!--# a = "MARTHA"-->
+<!--# b = "MARHTA"-->
 
-# a = "DWAYNE"
-# b = "DUANE"
+<!--# a = "DWAYNE"-->
+<!--# b = "DUANE"-->
 
 a = "DIXON"
 b = "DICKSONX"
 
-# a = "aaabbe"
-# b = "abbcc4aaee"
+<!--# a = "aaabbe"-->
+<!--# b = "abbcc4aaee"-->
 
 Jaro_Winkler_distance(a, b)
 

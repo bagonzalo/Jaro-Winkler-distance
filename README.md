@@ -2,7 +2,7 @@
 Jari-Winkler distance (Python) - reference: 
 https://en.wikipedia.org/wiki/Jaro–Winkler_distance
 
-# Example:
+### Example:
 
 <!--# a = "abcde"-->
 <!--# b = "abdcde"-->
@@ -23,5 +23,6 @@ Jaro_Winkler_distance(a, b)
 
 Jaro distance: 0.766667
 Jaro-Winkler distance: 0.813333
-Out[94]:
+
+Output:
 0.8133333333333332
